@@ -1,0 +1,109 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\colom\\source\\repos\\MyNotes\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\controllers\\notecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\views\\note\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\views\\note\\new.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\models\\note.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Properties\\launchSettings.json",
+              "RelativeDocumentMoniker": "MyNotes\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Properties\\launchSettings.json",
+              "RelativeToolTip": "MyNotes\\Properties\\launchSettings.json",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAcwB4AAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-04-14T16:10:33.662Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "New.cshtml",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\New.cshtml",
+              "RelativeDocumentMoniker": "MyNotes\\Views\\Note\\New.cshtml",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\New.cshtml",
+              "RelativeToolTip": "MyNotes\\Views\\Note\\New.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:01:00.38Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\Index.cshtml",
+              "RelativeDocumentMoniker": "MyNotes\\Views\\Note\\Index.cshtml",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\Index.cshtml",
+              "RelativeToolTip": "MyNotes\\Views\\Note\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-14T16:00:19.193Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "NoteController.cs",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Controllers\\NoteController.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Controllers\\NoteController.cs",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Controllers\\NoteController.cs",
+              "RelativeToolTip": "MyNotes\\Controllers\\NoteController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAAQwDMAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:56:36Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Note.cs",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeDocumentMoniker": "MyNotes\\Models\\Note.cs",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Models\\Note.cs",
+              "RelativeToolTip": "MyNotes\\Models\\Note.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-04-14T15:47:57.934Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

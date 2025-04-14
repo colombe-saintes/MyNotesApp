@@ -1,0 +1,37 @@
+﻿@*
+    For more information on enabling MVC for empty projects, visit https://go.microsoft.com/fwlink/?LinkID=397860
+*@
+
+@model List<MyNotes.Models.Note>
+
+@{
+    ViewData["Title"] = "My Notes";
+}
+
+<h1>My Notes</h1>
+
+<a class="btn btn-primary mb-3" href="/Note/New">+ New Note</a>
+
+<table class="table table-striped">
+    <thead>
+        <tr>
+            <th>Title</th>
+            <th>Content</th>
+            <th>Actions</th>
+        </tr>
+    </thead>
+    <tbody>
+        @foreach (var note in Model)
+        {
+            <tr>
+                <td>@note.Title</td>
+                <td>@note.Content</td>
+                <td>
+                    <a class="btn btn-sm btn-warning" href="/Note/Edit/@note.Id">Edit</a>
+                    <a class="btn btn-sm btn-danger" href="/Note/Delete/@note.Id">Delete</a>
+                </td>
+            </tr>
+        }
+    </tbody>
+</table>
+
