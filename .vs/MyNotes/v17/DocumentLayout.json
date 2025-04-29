@@ -3,16 +3,32 @@
   "WorkspaceRootPath": "C:\\Users\\colom\\source\\repos\\MyNotes\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\views\\shared\\_loginpartial.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\viewmodels\\changepasswordviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\viewmodels\\verifyemailviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\viewmodels\\loginviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\viewmodels\\registerviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -39,10 +55,6 @@
       "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
       "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\views\\note\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
     },
@@ -57,14 +69,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\migrations\\20250417165241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\migrations\\20250417165241_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|solutionrelative:mynotes\\mynotes.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
       "AbsoluteMoniker": "D:0:0:{9A1AF504-DC9F-4730-82DE-4CE645FE6B54}|MyNotes\\MyNotes.csproj|c:\\users\\colom\\source\\repos\\mynotes\\mynotes\\wwwroot\\css\\site.css||{A5401142-F49D-43DB-90B1-F57BA349E55C}",
@@ -82,28 +86,58 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 3,
           "Children": [
             {
               "$type": "Bookmark",
               "Name": "ST:0:0:{b1e99781-ab81-11d0-b683-00aa00a3ee26}"
             },
             {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{1c4feeaa-4718-4aa9-859d-94ce25d182ba}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "_LoginPartial.cshtml",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeDocumentMoniker": "MyNotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "RelativeToolTip": "MyNotes\\Views\\Shared\\_LoginPartial.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAACAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T19:10:38.542Z",
+              "EditorCaption": ""
+            },
+            {
               "$type": "Document",
               "DocumentIndex": 0,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "MyNotes\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "MyNotes\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAA4AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-04-29T18:53:52.326Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "ChangePasswordViewModel.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\ViewModels\\ChangePasswordViewModel.cs",
               "RelativeDocumentMoniker": "MyNotes\\ViewModels\\ChangePasswordViewModel.cs",
               "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\ViewModels\\ChangePasswordViewModel.cs",
               "RelativeToolTip": "MyNotes\\ViewModels\\ChangePasswordViewModel.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAlAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAA1AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-04-29T16:35:13.988Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 6,
               "Title": "VerifyEmailViewModel.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\ViewModels\\VerifyEmailViewModel.cs",
               "RelativeDocumentMoniker": "MyNotes\\ViewModels\\VerifyEmailViewModel.cs",
@@ -111,12 +145,11 @@
               "RelativeToolTip": "MyNotes\\ViewModels\\VerifyEmailViewModel.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAIAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:33:08.445Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T16:33:08.445Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 7,
               "Title": "RegisterViewModel.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\ViewModels\\RegisterViewModel.cs",
               "RelativeDocumentMoniker": "MyNotes\\ViewModels\\RegisterViewModel.cs",
@@ -124,12 +157,11 @@
               "RelativeToolTip": "MyNotes\\ViewModels\\RegisterViewModel.cs",
               "ViewState": "AgIAAAUAAAAAAAAAAAAAwBUAAAAgAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T16:25:15.67Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T16:25:15.67Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "LoginViewModel.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\ViewModels\\LoginViewModel.cs",
               "RelativeDocumentMoniker": "MyNotes\\ViewModels\\LoginViewModel.cs",
@@ -142,7 +174,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 8,
               "Title": "20250429154049_Init.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Migrations\\20250429154049_Init.cs",
               "RelativeDocumentMoniker": "MyNotes\\Migrations\\20250429154049_Init.cs",
@@ -150,12 +182,11 @@
               "RelativeToolTip": "MyNotes\\Migrations\\20250429154049_Init.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:40:49.632Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T15:40:49.632Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 6,
+              "DocumentIndex": 10,
               "Title": "Users.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Models\\Users.cs",
               "RelativeDocumentMoniker": "MyNotes\\Models\\Users.cs",
@@ -163,12 +194,11 @@
               "RelativeToolTip": "MyNotes\\Models\\Users.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-29T15:17:33.564Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-29T15:17:33.564Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 16,
               "Title": "20250417165241_InitialCreate.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Migrations\\20250417165241_InitialCreate.cs",
               "RelativeDocumentMoniker": "MyNotes\\Migrations\\20250417165241_InitialCreate.cs",
@@ -176,12 +206,11 @@
               "RelativeToolTip": "MyNotes\\Migrations\\20250417165241_InitialCreate.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:52:41.592Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:52:41.592Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 12,
               "Title": "AppDbContext.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Data\\AppDbContext.cs",
               "RelativeDocumentMoniker": "MyNotes\\Data\\AppDbContext.cs",
@@ -189,12 +218,11 @@
               "RelativeToolTip": "MyNotes\\Data\\AppDbContext.cs",
               "ViewState": "AgIAAAMAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:40:28.164Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:40:28.164Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 4,
               "Title": "appsettings.json",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\appsettings.json",
               "RelativeDocumentMoniker": "MyNotes\\appsettings.json",
@@ -207,7 +235,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
+              "DocumentIndex": 9,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Program.cs",
               "RelativeDocumentMoniker": "MyNotes\\Program.cs",
@@ -215,12 +243,11 @@
               "RelativeToolTip": "MyNotes\\Program.cs",
               "ViewState": "AgIAAA8AAAAAAAAAAAAAABgAAAAdAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-17T16:22:23.658Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-17T16:22:23.658Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 2,
               "Title": "MyNotes.csproj",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\MyNotes.csproj",
               "RelativeDocumentMoniker": "MyNotes\\MyNotes.csproj",
@@ -233,7 +260,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 14,
               "Title": "Display.cshtml",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\Display.cshtml",
               "RelativeDocumentMoniker": "MyNotes\\Views\\Note\\Display.cshtml",
@@ -241,12 +268,11 @@
               "RelativeToolTip": "MyNotes\\Views\\Note\\Display.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAfAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-16T16:33:56.449Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T16:33:56.449Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "site.css",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\wwwroot\\css\\site.css",
               "RelativeDocumentMoniker": "MyNotes\\wwwroot\\css\\site.css",
@@ -254,25 +280,11 @@
               "RelativeToolTip": "MyNotes\\wwwroot\\css\\site.css",
               "ViewState": "AgIAAAYAAAAAAAAAAAAIwBwAAAAlAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003000|",
-              "WhenOpened": "2025-04-16T15:53:12.064Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-16T15:53:12.064Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Properties\\launchSettings.json",
-              "RelativeDocumentMoniker": "MyNotes\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Properties\\launchSettings.json",
-              "RelativeToolTip": "MyNotes\\Properties\\launchSettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAB4AAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-04-14T16:10:33.662Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "New.cshtml",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\New.cshtml",
               "RelativeDocumentMoniker": "MyNotes\\Views\\Note\\New.cshtml",
@@ -280,12 +292,11 @@
               "RelativeToolTip": "MyNotes\\Views\\Note\\New.cshtml",
               "ViewState": "AgIAAAAAAAAAAAAAAIBJwAsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T16:01:00.38Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T16:01:00.38Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 13,
               "Title": "Index.cshtml",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Views\\Note\\Index.cshtml",
               "RelativeDocumentMoniker": "MyNotes\\Views\\Note\\Index.cshtml",
@@ -293,12 +304,11 @@
               "RelativeToolTip": "MyNotes\\Views\\Note\\Index.cshtml",
               "ViewState": "AgIAAAIAAAAAAAAAAAAYwB0AAAAcAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-04-14T16:00:19.193Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T16:00:19.193Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 15,
               "Title": "NoteController.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Controllers\\NoteController.cs",
               "RelativeDocumentMoniker": "MyNotes\\Controllers\\NoteController.cs",
@@ -306,12 +316,11 @@
               "RelativeToolTip": "MyNotes\\Controllers\\NoteController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAHIAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T15:56:36Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T15:56:36Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 7,
+              "DocumentIndex": 11,
               "Title": "Note.cs",
               "DocumentMoniker": "C:\\Users\\colom\\source\\repos\\MyNotes\\MyNotes\\Models\\Note.cs",
               "RelativeDocumentMoniker": "MyNotes\\Models\\Note.cs",
@@ -319,8 +328,7 @@
               "RelativeToolTip": "MyNotes\\Models\\Note.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-04-14T15:47:57.934Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-04-14T15:47:57.934Z"
             }
           ]
         }
