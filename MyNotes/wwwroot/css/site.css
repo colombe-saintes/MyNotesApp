@@ -20,3 +20,11 @@ html {
 body {
   margin-bottom: 60px;
 }
+
+.btn-filter {
+    background-color: var(--bs-gray-500);
+}
+
+.btn-display {
+    background-color: var(--bs-purple);
+}

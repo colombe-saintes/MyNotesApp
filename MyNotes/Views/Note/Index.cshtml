@@ -12,9 +12,19 @@
 
 <a class="btn btn-primary mb-3" href="/Note/New">+ New Note</a>
 
+<h2>Display options and filters</h2>
+
+<a class="btn btn-success mb-3" href="/Note/Index">All notes</a>
+<a class="btn btn-warning mb-3" href="/Note/Index">Favorites notes</a>
+<a class="btn btn-filter mb-3" asp-controller="Note" asp-action="SortNewestToOldest">Newest to oldest</a>
+<a class="btn btn-filter mb-3" asp-controller="Note" asp-action="SortOldestToNewest">Oldest to newest</a>
+<a class="btn btn-warning mb-3" asp-controller="Note" asp-action="DeleteAll">Delete all</a>
+
 <table class="table table-striped">
     <thead>
         <tr>
+            <th>Favorite</th>
+            <th>Date</th>
             <th>Title</th>
             <th>Content</th>
             <th>Actions</th>
@@ -24,11 +34,15 @@
         @foreach (var note in Model)
         {
             <tr>
+                <td></td>
+                <td>@note.Date</td>
                 <td>@note.Title</td>
                 <td>@note.Content</td>
                 <td>
+                    <a class="btn btn-sm btn-display" href="/Note/Display/@note.Id">Display</a>
                     <a class="btn btn-sm btn-warning" href="/Note/Edit/@note.Id">Edit</a>
                     <a class="btn btn-sm btn-danger" href="/Note/Delete/@note.Id">Delete</a>
+                    <a class="btn btn-sm btn-info" href="/Note/Duplicate/@note.Id">Duplicate</a>
                 </td>
             </tr>
         }
